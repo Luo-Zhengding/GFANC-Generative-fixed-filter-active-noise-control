@@ -8,9 +8,7 @@ To obtain more appropriate control filters for differen primary noises, a genera
 
 ![Fig1](https://github.com/Luo-Zhengding/GFANC-Generative-fixed-filter-active-noise-control/assets/95018034/b2d47137-14d5-4365-ad5e-a5c6671a866b)
 
-If you want to re-train the network, you can run the ".ipynb" files in the three folders in order. The entire training dataset is available at https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/ETJWLU
-
-we have provided the trained 1D CNN model, you can easily run the "Noise_Cancellation_GFANC.ipynb" file in "3.Noise_Cancellation_Code" to get the noise reduction results. The real noises in our experiemnts are provided in "Real Noise Examples".
+we have provided the trained 1D CNN model, you can easily run the "Noise_Cancellation_GFANC.ipynb" file to get the noise reduction results. The real noises in our experiemnts are provided in "Real Noise Examples".
 
 Platform: NVIDIA-SMI 466.47, Driver Version: 466.47, CUDA Version: 11.3
 Environment: Jupyter Notebook 6.4.5, Python 3.9.7, Pytorch 1.10.1
